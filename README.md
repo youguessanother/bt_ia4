@@ -18,7 +18,7 @@ The goal of this repository is to showcase understanding of blockchain architect
 ---
 
 ## Repository Structure
-
+```
 ├── q1
 │   ├── chaincode
 │   │   ├── go.mod
@@ -46,7 +46,7 @@ The goal of this repository is to showcase understanding of blockchain architect
 │       └── sybil-attack.md
 └── README.md
 
-
+```
 
 
 ---
